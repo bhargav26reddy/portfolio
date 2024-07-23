@@ -5,9 +5,6 @@ import Resume from "./components/Resume";
 
 const App = () => {
   return (
-    // <div>
-    //   hello world1manoh
-    // </div>
     <BrowserRouter>
       <div className='relative z-0 bg-primary'>
         <div className='bg-hero-pattern bg-cover bg-no-repeat bg-center'>
